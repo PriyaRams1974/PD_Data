@@ -1,0 +1,6 @@
+"User","runners2@tribemediahouse.com"
+"RunID",33
+"DB Path","/home/ec2-user/NodeApi/public/uploads/d2a51e3d-171d-456b-a1c1-051a37c32833/3bc6b466-8892-4ce3-98f0-9954d9c622bd.csv"
+"RawData Path","http://34.221.95.211:8888/uploads/d2a51e3d-171d-456b-a1c1-051a37c32833/rawdata/3bc6b466-8892-4ce3-98f0-9954d9c622bd.csv"
+"RotateData Path","http://34.221.95.211:8888/uploads/d2a51e3d-171d-456b-a1c1-051a37c32833/3bc6b466-8892-4ce3-98f0-9954d9c622bd.csv"
+"Peaks Path","http://34.221.95.211:8888/uploads/d2a51e3d-171d-456b-a1c1-051a37c32833/peaks/3bc6b466-8892-4ce3-98f0-9954d9c622bd.csv"
