@@ -1,134 +1,68 @@
 Interval_no,Peaks_Index, Peaks_value 
 1, Rpeaks[0], 75 
-1 
-, Rpeaks[1], 118,stepDiff = 43 
-1 
-, Rpeaks[2], 163,stepDiff = 45 
-1 
-, Rpeaks[3], 210,stepDiff = 47 
-1 
-, Rpeaks[4], 252,stepDiff = 42 
-1 
-, Rpeaks[5], 295,stepDiff = 43 
-1 
-, Rpeaks[6], 340,stepDiff = 45 
-1 
-, Rpeaks[7], 383,stepDiff = 43 
-1 
-, Rpeaks[8], 427,stepDiff = 44 
-1 
-, Rpeaks[9], 473,stepDiff = 46 
-1 
-, Rpeaks[10], 515,stepDiff = 42 
-1 
-, Rpeaks[11], 560,stepDiff = 45 
-1 
-, Rpeaks[12], 605,stepDiff = 45 
-1 
-, Rpeaks[13], 649,stepDiff = 44 
-1 
-, Rpeaks[14], 694,stepDiff = 45 
-1 
-, Rpeaks[15], 738,stepDiff = 44 
-1 
-, Rpeaks[16], 784,stepDiff = 46 
-1 
-, Rpeaks[17], 831,stepDiff = 47 
-1 
-, Rpeaks[18], 874,stepDiff = 43 
-1 
-, Rpeaks[19], 919,stepDiff = 45 
-1 
-, Rpeaks[20], 961,stepDiff = 42 
-1 
-, Rpeaks[21], 1004,stepDiff = 43 
-1 
-, Rpeaks[22], 1049,stepDiff = 45 
-1 
-, Rpeaks[23], 1094,stepDiff = 45 
-1 
-, Rpeaks[24], 1138,stepDiff = 44 
-1 
-, Rpeaks[25], 1183,stepDiff = 45 
-1 
-, Rpeaks[26], 1226,stepDiff = 43 
-1 
-, Rpeaks[27], 1269,stepDiff = 43 
-1 
-, Rpeaks[28], 1316,stepDiff = 47 
-1 
-, Rpeaks[29], 1360,stepDiff = 44 
-1 
-, Rpeaks[30], 1406,stepDiff = 46 
-1 
-, Rpeaks[31], 1449,stepDiff = 43 
-1 
-, Rpeaks[32], 1493,stepDiff = 44 
-1 
-, Rpeaks[33], 1537,stepDiff = 44 
-1 
-, Rpeaks[34], 1583,stepDiff = 46 
-1 
-, Rpeaks[35], 1624,stepDiff = 41 
-1 
-, Rpeaks[36], 1669,stepDiff = 45 
-1 
-, Rpeaks[37], 1711,stepDiff = 42 
-1 
-, Rpeaks[38], 1755,stepDiff = 44 
-1 
-, Rpeaks[39], 1798,stepDiff = 43 
-1 
-, Rpeaks[40], 1842,stepDiff = 44 
-1 
-, Rpeaks[41], 1884,stepDiff = 42 
-1 
-, Rpeaks[42], 1928,stepDiff = 44 
-1 
-, Rpeaks[43], 1971,stepDiff = 43 
-1 
-, Rpeaks[44], 2015,stepDiff = 44 
-1 
-, Rpeaks[45], 2058,stepDiff = 43 
-1 
-, Rpeaks[46], 2101,stepDiff = 43 
-1 
-, Rpeaks[47], 2145,stepDiff = 44 
-1 
-, Rpeaks[48], 2189,stepDiff = 44 
-1 
-, Rpeaks[49], 2231,stepDiff = 42 
-1 
-, Rpeaks[50], 2274,stepDiff = 43 
-1 
-, Rpeaks[51], 2315,stepDiff = 41 
-1 
-, Rpeaks[52], 2358,stepDiff = 43 
-1 
-, Rpeaks[53], 2400,stepDiff = 42 
-1 
-, Rpeaks[54], 2444,stepDiff = 44 
-1 
-, Rpeaks[55], 2485,stepDiff = 41 
-1 
-, Rpeaks[56], 2530,stepDiff = 45 
-1 
-, Rpeaks[57], 2571,stepDiff = 41 
-1 
-, Rpeaks[58], 2616,stepDiff = 45 
-1 
-, Rpeaks[59], 2659,stepDiff = 43 
-1 
-, Rpeaks[60], 2702,stepDiff = 43 
-1 
-, Rpeaks[61], 2745,stepDiff = 43 
-1 
-, Rpeaks[62], 2790,stepDiff = 45 
-1 
-, Rpeaks[63], 2831,stepDiff = 41 
-1 
-, Rpeaks[64], 2875,stepDiff = 44 
-1 
-, Rpeaks[65], 2919,stepDiff = 44 
-1 
-, Rpeaks[66], 2965,stepDiff = 46 
+1, Rpeaks[1], 118,stepDiff = 43 
+1, Rpeaks[2], 163,stepDiff = 45 
+1, Rpeaks[3], 210,stepDiff = 47 
+1, Rpeaks[4], 252,stepDiff = 42 
+1, Rpeaks[5], 295,stepDiff = 43 
+1, Rpeaks[6], 340,stepDiff = 45 
+1, Rpeaks[7], 383,stepDiff = 43 
+1, Rpeaks[8], 427,stepDiff = 44 
+1, Rpeaks[9], 473,stepDiff = 46 
+1, Rpeaks[10], 515,stepDiff = 42 
+1, Rpeaks[11], 560,stepDiff = 45 
+1, Rpeaks[12], 605,stepDiff = 45 
+1, Rpeaks[13], 649,stepDiff = 44 
+1, Rpeaks[14], 694,stepDiff = 45 
+1, Rpeaks[15], 738,stepDiff = 44 
+1, Rpeaks[16], 784,stepDiff = 46 
+1, Rpeaks[17], 831,stepDiff = 47 
+1, Rpeaks[18], 874,stepDiff = 43 
+1, Rpeaks[19], 919,stepDiff = 45 
+1, Rpeaks[20], 961,stepDiff = 42 
+1, Rpeaks[21], 1004,stepDiff = 43 
+1, Rpeaks[22], 1049,stepDiff = 45 
+1, Rpeaks[23], 1094,stepDiff = 45 
+1, Rpeaks[24], 1138,stepDiff = 44 
+1, Rpeaks[25], 1183,stepDiff = 45 
+1, Rpeaks[26], 1226,stepDiff = 43 
+1, Rpeaks[27], 1269,stepDiff = 43 
+1, Rpeaks[28], 1316,stepDiff = 47 
+1, Rpeaks[29], 1360,stepDiff = 44 
+1, Rpeaks[30], 1406,stepDiff = 46 
+1, Rpeaks[31], 1449,stepDiff = 43 
+1, Rpeaks[32], 1493,stepDiff = 44 
+1, Rpeaks[33], 1537,stepDiff = 44 
+1, Rpeaks[34], 1583,stepDiff = 46 
+1, Rpeaks[35], 1624,stepDiff = 41 
+1, Rpeaks[36], 1669,stepDiff = 45 
+1, Rpeaks[37], 1711,stepDiff = 42 
+1, Rpeaks[38], 1755,stepDiff = 44 
+1, Rpeaks[39], 1798,stepDiff = 43 
+1, Rpeaks[40], 1842,stepDiff = 44 
+1, Rpeaks[41], 1884,stepDiff = 42 
+1, Rpeaks[42], 1928,stepDiff = 44 
+1, Rpeaks[43], 1971,stepDiff = 43 
+1, Rpeaks[44], 2015,stepDiff = 44 
+1, Rpeaks[45], 2058,stepDiff = 43 
+1, Rpeaks[46], 2101,stepDiff = 43 
+1, Rpeaks[47], 2145,stepDiff = 44 
+1, Rpeaks[48], 2189,stepDiff = 44 
+1, Rpeaks[49], 2231,stepDiff = 42 
+1, Rpeaks[50], 2274,stepDiff = 43 
+1, Rpeaks[51], 2315,stepDiff = 41 
+1, Rpeaks[52], 2358,stepDiff = 43 
+1, Rpeaks[53], 2400,stepDiff = 42 
+1, Rpeaks[54], 2444,stepDiff = 44 
+1, Rpeaks[55], 2485,stepDiff = 41 
+1, Rpeaks[56], 2530,stepDiff = 45 
+1, Rpeaks[57], 2571,stepDiff = 41 
+1, Rpeaks[58], 2616,stepDiff = 45 
+1, Rpeaks[59], 2659,stepDiff = 43 
+1, Rpeaks[60], 2702,stepDiff = 43 
+1, Rpeaks[61], 2745,stepDiff = 43 
+1, Rpeaks[62], 2790,stepDiff = 45 
+1, Rpeaks[63], 2831,stepDiff = 41 
+1, Rpeaks[64], 2875,stepDiff = 44 
+1, Rpeaks[65], 2919,stepDiff = 44 
+1, Rpeaks[66], 2965,stepDiff = 46 
